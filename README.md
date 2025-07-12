@@ -2,3 +2,4 @@
 Esta es una prueba en la rama desarrollador
 linea desde rama Master
 linea desde rama conflicto
+Cambios en conflicto-linea en conflicto
