@@ -5,3 +5,4 @@ linea desde rama conflicto
 <<<<<<< HEAD
 cambios combinados:master y conflicto juntos
 >>>>>>> conflicto
+cambiando readmi
